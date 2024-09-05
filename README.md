@@ -1,5 +1,6 @@
 # Weather-Web-App
 This is a simple Weather Web Application for getting weather information by using <b>openweathermap api.
+https://sarfrazalam1.github.io/Weather-Web-App/
 
 
 # Screenshots.
